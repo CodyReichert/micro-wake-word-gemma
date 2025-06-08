@@ -6,7 +6,7 @@ Custom wake word trained on `gemma` ("gem-muh"), for use primarily with openWake
 
 ### Usage with `microWakeWord` in ESPHome
 
-``
+```
 micro_wake_word:
   ...
   models:
